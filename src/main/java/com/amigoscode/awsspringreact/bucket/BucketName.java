@@ -1,7 +1,7 @@
 package com.amigoscode.awsspringreact.bucket;
 
 public enum BucketName {
-    PROFILE_IMAGE("aws-demo-image-444");
+    PROFILE_IMAGE("aws-frontend-345");
 
     private final String bucketName;
 
