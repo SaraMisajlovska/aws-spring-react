@@ -1,7 +1,5 @@
 package com.amigoscode.awsspringreact.profile;
 
-
-
 import com.amigoscode.awsspringreact.bucket.BucketName;
 import com.amigoscode.awsspringreact.filestore.FileStore;
 import org.springframework.beans.factory.annotation.Autowired;
